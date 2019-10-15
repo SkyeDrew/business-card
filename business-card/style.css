@@ -50,3 +50,19 @@ html {
     border-radius: 1.5em 1.5em 0 0;
 }
 
+/*Card Contents*/
+
+.card article img {
+    max-height: 100%;
+    float: right;
+}
+
+.card article {
+    height: 12em;
+    background-color: rgba(0,0,0,0.25);
+}
+
+.card article p {
+    padding: 1em;
+    color: rgba(255,255,255,0.8);
+}

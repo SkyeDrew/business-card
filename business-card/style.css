@@ -7,3 +7,18 @@ html {
     font-size: 10px;
     background-color: #ccc;
 }
+
+/*Card Container Styles*/
+
+.card {
+    width: 35em;
+    height: 22em;
+    margin: 20em auto;
+    background-color: red;
+    border: 0.2em solid black;
+    border-radius: 1.5em;
+}
+
+.card h2, .card p {
+    margin: 0;
+}
